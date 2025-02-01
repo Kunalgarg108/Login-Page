@@ -46,3 +46,35 @@ cd login-page
 ```sh
 npm install
 ```
+
+### 3️⃣ Setup Firebase
+- Go to Firebase Console
+- Create a new project
+- Enable Authentication > Sign-in Methods
+- Enable Google Sign-In and Email/Password Sign-In
+- Copy Firebase Config from Project Settings
+
+
+### 4️⃣ Create .env File
+Create a .env file in the root directory and add your Firebase credentials:
+```sh
+VITE_FIREBASE_API_KEY=your-api-key
+VITE_FIREBASE_AUTH_DOMAIN=your-auth-domain
+VITE_FIREBASE_PROJECT_ID=your-project-id
+VITE_FIREBASE_STORAGE_BUCKET=your-storage-bucket
+VITE_FIREBASE_MESSAGING_SENDER_ID=your-messaging-sender-id
+VITE_FIREBASE_APP_ID=your-app-id
+VITE_FIREBASE_MEASUREMENT_ID=your-measurement-id
+
+```
+### 5️⃣ Run the Project
+```sh
+npm run dev
+```
+
+---
+
+## 📂 Project Structure  
+
+
+/login-page │── /src  │ ├── Login.jsx │ ├── Home.jsx │ ├── firebase.js │ ├── App.jsx │ ├── main.jsx │── .env │── README.md │── package.json │── vite.config.js
