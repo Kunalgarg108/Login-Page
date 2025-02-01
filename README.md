@@ -77,4 +77,15 @@ npm run dev
 ## 📂 Project Structure  
 
 ```
-/login-page │── /src  │ ├── Login.jsx │ ├── Home.jsx │ ├── firebase.js │ ├── App.jsx │ ├── main.jsx │── .env │── README.md │── package.json │── vite.config.js
+/login-page
+├── /src
+│   ├── Login.jsx
+│   ├── Home.jsx
+│   ├── firebase.js
+│   ├── App.jsx
+│   ├── main.jsx
+├── .env
+├── README.md
+├── package.json
+├── vite.config.js
+```
