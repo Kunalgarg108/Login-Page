@@ -1,18 +1,20 @@
 # Login Page with Firebase Authentication
-This is a **React-based Login Page** that uses **Firebase Authentication** for:  
+This is a **React-Vte based Login Page** that uses **Firebase Authentication** for:  
 - Google Sign-In  
 - Email & Password Authentication  
 - React Router for navigation  
 - React Toastify for notifications 
 
-## Technologies Used:
+---
 
-- **HTML**: Provides the basic structure of the webpage.
+## 🚀 Features  
+- User Authentication with Firebase  
+- Google Sign-In & Email/Password Login  
+- Protected Routes using **React Router**  
+- User-friendly **Toast Notifications**  
+- Environment Variables for security  
 
-- **CSS**: Handles the styling, layout, and responsiveness of the webpage.
-
-- **JavaScript**: Adds interactivity, such as the "Back to Top" functionality.
-
+---
 ## Features:
 
 #### Header Section:
