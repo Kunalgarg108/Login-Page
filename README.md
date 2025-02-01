@@ -11,6 +11,7 @@ This is a **React-Vte based Login Page** that uses **Firebase Authentication** f
 
 🔑 **Login Page** 
 ![Login Page]([./screenshots/login.png](https://github.com/user-attachments/assets/faed5ebb-f891-446b-92d1-b4dd44b01c74])  
+![Screenshot 2025-02-01 123323](https://github.com/user-attachments/assets/d12f72bf-f2e2-4e63-babd-021cbaf9ccb2)
 
 🔑 **SignUp Page**  
 ![Signup Page]([./screenshots/signup.png](https://github.com/user-attachments/assets/0ab1f8b5-dc2a-4106-a789-0ad672e6bd10))  
