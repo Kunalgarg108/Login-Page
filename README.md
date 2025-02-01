@@ -36,3 +36,7 @@ This is a **React-Vte based Login Page** that uses **Firebase Authentication** f
 ---
 
 ## 🛠️ Installation Guide 
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/yourusername/login-page.git
+cd login-page
