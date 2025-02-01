@@ -3,7 +3,17 @@ This is a **React-Vte based Login Page** that uses **Firebase Authentication** f
 - Google Sign-In  
 - Email & Password Authentication  
 - React Router for navigation  
-- React Toastify for notifications 
+- React Toastify for notifications
+  
+---
+
+## 📸 Project Screenshots  
+
+🔑 **Login Page** 
+![Login Page]([./screenshots/login.png](https://github.com/user-attachments/assets/faed5ebb-f891-446b-92d1-b4dd44b01c74))  
+
+🔑 **SignUp Page**  
+![Signup Page]([./screenshots/signup.png](https://github.com/user-attachments/assets/0ab1f8b5-dc2a-4106-a789-0ad672e6bd10))  
 
 ---
 
